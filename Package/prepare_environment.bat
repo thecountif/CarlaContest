@@ -1,4 +1,5 @@
-rmdir /s /q venv
+ren venv venv_TO_BE_REMOVED
+rmdir /s /q venv_TO_BE_REMOVED
 
 python -m venv ./venv
 cd venv/Scripts
