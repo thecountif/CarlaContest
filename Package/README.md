@@ -9,7 +9,7 @@ https://carla-releases.s3.eu-west-3.amazonaws.com/Windows/CARLA_0.9.11.zip
 
 # How to run agent
 1. Run CARLA server by execute `start_carla_world.bat`
-2. Run agent by execute `./run_agent.bat`
+2. Run agent by execute `run_agent.bat`
 
 # How to config run_agent scripts
 run_agent.bat scripts
